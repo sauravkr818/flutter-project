@@ -17,7 +17,7 @@ repository. This can be done with the following call: https://api.github.com/rep
 
 ### Screenshot
 <h1 align="center" style="">
-<img src="https://user-images.githubusercontent.com/71181112/211717411-50b5c82c-d5b6-45c5-9944-22264129c0e4.png" alt="screenshot_(iPhone 12 Pro)" style="width:400px;height:820px;padding-right:60px;"/>
+<img src="https://user-images.githubusercontent.com/71181112/211717411-50b5c82c-d5b6-45c5-9944-22264129c0e4.png" alt="screenshot_(iPhone 12 Pro)" style="width:400px;height:820px;"/>
 
 <img src="https://user-images.githubusercontent.com/71181112/211717702-6f57c679-c241-46fd-beee-70d353dc40ea.png" alt="screenshot_modal_(iPhone 12 Pro)" style="width:400px;height:820px;"/>
 </h1>
