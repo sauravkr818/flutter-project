@@ -1,0 +1,166 @@
+{
+    "events": [
+        {
+            "day1": [
+                {
+                    "imageLink": "...",
+                    "title": "CS-GO",
+                    "time": "10:00 AM",
+                    "venue": "Cl3",
+                    "registration_link":"",
+                    "coordinators": [
+                        {
+                            "name": "Z",
+                            "email": "Z",
+                            "phone": "Z"
+                        },
+                        {
+                            "name": "z",
+                            "email": "z",
+                            "phone": "z"
+                        }
+                    ],
+                    "description": {
+                        "rules": ["z", "Z", "z"],
+                        "about": "Competetive CSGO Tournament",
+                        "extra": ""
+                    },
+                    "status": "True"
+                },
+                {
+                    "imageLink": "...",
+                    "title": "CS-GO",
+                    "time": "10:00 AM",
+                    "venue": "Cl3",
+                    "registration_link":"",
+                    "coordinators": [
+                        {
+                            "name": "Z",
+                            "email": "Z",
+                            "phone": "Z"
+                        },
+                        {
+                            "name": "z",
+                            "email": "z",
+                            "phone": "z"
+                        }
+                    ],
+                    "description": {
+                        "rules": ["z", "Z", "z"],
+                        "about": "Competetive CSGO Tournament",
+                        "extra": ""
+                    },
+                    "status": "True"
+                }
+            ]
+        },
+        {
+            "day2": [
+                {
+                    "imageLink": "...",
+                    "title": "CS-GO",
+                    "time": "10:00 AM",
+                    "venue": "Cl3",
+                    "registration_link":"",
+                    "coordinators": [
+                        {
+                            "name": "Z",
+                            "email": "Z",
+                            "phone": "Z"
+                        },
+                        {
+                            "name": "z",
+                            "email": "z",
+                            "phone": "z"
+                        }
+                    ],
+                    "description": {
+                        "rules": ["z", "Z", "z"],
+                        "about": "Competetive CSGO Tournament",
+                        "extra": ""
+                    },
+                    "status": "True"
+                },
+                {
+                    "imageLink": "...",
+                    "title": "CS-GO",
+                    "time": "10:00 AM",
+                    "venue": "Cl3",
+                    "registration_link":"",
+                    "coordinators": [
+                        {
+                            "name": "Z",
+                            "email": "Z",
+                            "phone": "Z"
+                        },
+                        {
+                            "name": "z",
+                            "email": "z",
+                            "phone": "z"
+                        }
+                    ],
+                    "description": {
+                        "rules": ["z", "Z", "z"],
+                        "about": "Competetive CSGO Tournament",
+                        "extra": ""
+                    },
+                    "status": "True"
+                }
+            ]
+        },
+        {
+            "day3": [
+                {
+                    "imageLink": "...",
+                    "title": "CS-GO",
+                    "time": "10:00 AM",
+                    "venue": "Cl3",
+                    "registration_link":"",
+                    "coordinators": [
+                        {
+                            "name": "Z",
+                            "email": "Z",
+                            "phone": "Z"
+                        },
+                        {
+                            "name": "z",
+                            "email": "z",
+                            "phone": "z"
+                        }
+                    ],
+                    "description": {
+                        "rules": ["z", "Z", "z"],
+                        "about": "Competetive CSGO Tournament",
+                        "extra": ""
+                    },
+                    "status": "True"
+                },
+                {
+                    "imageLink": "...",
+                    "title": "CS-GO",
+                    "time": "10:00 AM",
+                    "venue": "Cl3",
+                    "registration_link":"",
+                    "coordinators": [
+                        {
+                            "name": "Z",
+                            "email": "Z",
+                            "phone": "Z"
+                        },
+                        {
+                            "name": "z",
+                            "email": "z",
+                            "phone": "z"
+                        }
+                    ],
+                    "description": {
+                        "rules": ["z", "Z", "z"],
+                        "about": "Competetive CSGO Tournament",
+                        "extra": ""
+                    },
+                    "status": "True"
+                }
+            ]
+        }
+    ]
+}
